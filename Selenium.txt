@@ -1,0 +1,10 @@
+Selenium ist ein Open-Source-Framework für die Automatisierung von Webanwendungen. 
+Es ermöglicht das Steuern und Testen von Webbrowsern über Code, 
+wodurch Entwickler und Tester Abläufe auf einer Website automatisieren können.
+
+In einer Jenkins-Pipeline kann Selenium sinnvoll verwendet werden, 
+um automatisierte Tests für Webanwendungen während des Build- und Bereitstellungsprozesses durchzuführen. 
+Dies hilft dabei, sicherzustellen, dass die Webanwendung auch nach Änderungen oder Aktualisierungen weiterhin ordnungsgemäß funktioniert. 
+Die Pipeline kann automatisch gestartet werden, wenn Änderungen am Code vorgenommen werden, 
+und sie kann Berichte über den Erfolg oder das Scheitern der Tests generieren. 
+Dies ermöglicht eine kontinuierliche Integration und Bereitstellung von zuverlässigem Webcode.
